@@ -1,0 +1,13 @@
+feature,mean_abs_shap
+Savings_Account_Balance,1.5963273
+Income_INR,1.5200708
+Outstanding_Loans,0.61619586
+Newest_Trade_Open_Months,0.28885633
+Total_EMI_Paid,0.22787845
+ECS_Mandate_Count,0.18154962
+Interest_Rate_Pct,0.17911164
+Cash_Withdrawal_3M,0.1585979
+No_of_Open_Accounts,0.1384937
+Employment_Years,0.124503694
+Avg_Monthly_Salary_Credit,0.12092595
+Age,0.043227322
